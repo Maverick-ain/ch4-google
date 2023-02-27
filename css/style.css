@@ -1,0 +1,31 @@
+body{
+    display: contents;
+}
+
+
+.nav{
+    float:right;
+    margin: 20px;   
+}
+
+
+.nav-item{
+    text-decoration: none;
+    color: black;
+    font-family: 'verdana', arial, helvetica;
+    margin-right: 10px;
+}
+
+
+.nav-item:hover{
+    text-decoration: underline;
+}
+
+.main{
+    margin-top: 300px;
+}
+
+.input-area{
+    margin-top: 20px;
+    
+}
