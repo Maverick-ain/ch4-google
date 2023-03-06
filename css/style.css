@@ -72,8 +72,23 @@ body{
     margin: 11px 4px;
     text-align: center;
     cursor: pointer;
-
 }
+
+.offered{
+    margin-top: 10px; 
+    font-family: Apple SD Gothic Neo,arial,sans-serif;
+    font-size: 15p;
+    margin: 0. 10px;
+    text-decoration: none;
+    color: rgba(0,0,0,.54); 
+}
+
+.offered:hover{
+    text-decoration: underline;
+}
+
+
+
 
 .button-style:hover{
     box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
@@ -85,4 +100,42 @@ body{
 .footer{
     position: absolute;
     bottom: 20px;
+    background-color: #f2f2f2;
+    width: 100%;
 }
+
+.first-line{
+    padding: 15px 30px;
+    font-size: 15px;
+    border-bottom: 1px solid #dadce0;
+    color: rgba(0,0,0,.54);
+}
+
+.second-line{
+    padding: 15px 30px;
+    font-size: 15px;
+    color: rgba(0,0,0,.54);
+}
+
+.second-line-2{
+    float: right;
+}
+
+.footer-text{
+    text-decoration: none;
+    font-family: Apple SD Gothic Neo,arial,sans-serif;
+    color: rgba(0,0,0,.54);
+    margin: 0px 5px;
+}
+
+.first-line:hover{
+    text-decoration: underline;
+}
+
+.footer-text:hover{
+    text-decoration: underline;
+    background-color: #f2f2f2;
+    width: 100%;
+}
+
+
