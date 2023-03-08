@@ -125,7 +125,6 @@ body{
     text-decoration: none;
     font-family: Apple SD Gothic Neo,arial,sans-serif;
     color: rgba(0,0,0,.54);
-    margin: 0px 5px;
 }
 
 .first-line:hover{
@@ -134,8 +133,6 @@ body{
 
 .footer-text:hover{
     text-decoration: underline;
-    background-color: #f2f2f2;
-    width: 100%;
 }
 
 
